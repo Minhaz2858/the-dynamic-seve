@@ -1,4 +1,7 @@
 Title: InclusiveVision - Smart Glasses for Visually Impaired Individuals
+https://nexmaker-fab.github.io/2023zjudem-The-Dynamic-Seven/
+
+
 Project Description
 There are multiple smart accessories, such as smart glasses, smart watches, etc., available in the market. But all of them are built for us. There is a significant lack of technology to aid the physically challenged.
 
